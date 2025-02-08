@@ -3,6 +3,8 @@
 #include <QApplication>
 #include <QScreen>
 #include <QSharedMemory>
+#include<QWidget>
+#include<QWidget>
 
 int main(int argc, char *argv[])
 {
