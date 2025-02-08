@@ -7,7 +7,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    QSharedMemory shared_memory;
+      QSharedMemory shared_memory;
     shared_memory.setKey(QString("PipeClimber"));
     if(shared_memory.attach())
         return 0;
