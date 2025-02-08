@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>closeRecord.png</file>
+        <file>Record.png</file>
+        <file>snapshot.png</file>
+        <file>cancel.png</file>
+        <file>dianyuan.png</file>
+        <file>ok.png</file>
+        <file>setting.png</file>
+        <file>cancel1.png</file>
+        <file>closeRecord1.png</file>
+        <file>dianyuan1.png</file>
+        <file>ok1.png</file>
+        <file>Record1.png</file>
+        <file>setting1.png</file>
+        <file>snapshot1.png</file>
+        <file>opendir.png</file>
+        <file>opendir1.png</file>
+        <file>pause.png</file>
+        <file>pause1.png</file>
+        <file>play.png</file>
+        <file>play1.png</file>
+        <file>player.png</file>
+        <file>player1.png</file>
+        <file>stop.png</file>
+        <file>stop1.png</file>
+        <file>forward.png</file>
+        <file>forward1.png</file>
+        <file>rewind.png</file>
+        <file>rewind1.png</file>
+        <file>page1.png</file>
+        <file>page11.png</file>
+        <file>selectdir.png</file>
+        <file>selectdir1.png</file>
+        <file>border.png</file>
+        <file>small.png</file>
+        <file>small1.png</file>
+        <file>app.ico</file>
+        <file>playerborder.png</file>
+        <file>page2.png</file>
+        <file>page21.png</file>
+        <file>bottom.png</file>
+        <file>close2.png</file>
+        <file>set3.png</file>
+    </qresource>
+</RCC>
